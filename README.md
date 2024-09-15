@@ -14,3 +14,4 @@ Project Learnings :
 4. Used Different types of customized Visualization (Bar chart,Pie chart,Donut chart,Scatter chart,Line chart,Area chart,Map,Slicers etc)
 
 [Madhu ecommerce sales dashboard.pdf](https://github.com/user-attachments/files/17006941/Madhu.ecommerce.sales.dashboard.pdf)
+![Screenshot 2024-09-15 234846](https://github.com/user-attachments/assets/2ba2582a-6369-49af-b9c0-350c47ea25ae)
