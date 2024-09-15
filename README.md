@@ -13,3 +13,4 @@ Project Learnings :
 3. Created connections ,join new tables,calculations to manipulate data and enable user driven parameters for visualization.
 4. Used Different types of customized Visualization (Bar chart,Pie chart,Donut chart,Scatter chart,Line chart,Area chart,Map,Slicers etc)
 
+[Madhu ecommerce sales dashboard.pdf](https://github.com/user-attachments/files/17006941/Madhu.ecommerce.sales.dashboard.pdf)
